@@ -1,0 +1,31 @@
+Cerințe generale
+1. La final se va preda codul sursa împreună cu fișierul de requirements.txt.
+NU se va transmite și folderul venv.
+2. Folosiți comentarii în interiorul programului pentru descrierea funcționalității.
+3. Citați sursele folosite. Dacă ați reutilizat cod păstrați în comentariu de documentare de la
+începutul fișierului un link către codul original.
+4. NU este necesară pentru prezentarea proiectelor o prezentare powerpoint. Codul sursă și un
+scurt demo sunt suficiente.
+5. Totuși ar fi bine să vă pregătiți un discurs . Prezentarea poate fi realizată de un singur membru al
+echipei, dar ar fi indicat să fie toți membri implicați.
+6. Toți membri echipei trebuie să fie capabili să răspundă la întrebări.
+----------------------------------------------------------------------------------------------------------------
+Echipa: 21-E6
+Studenti: PINTE N. G. ALEXANDRU-DUMITRU, POPESCU C. CRISTINA-ROXANA
+Tema proiect: D3-T1 | Redenumirea fișierelor care respectă un sablon dat.
+Redenumirea fișierelor care conțin un cuvânt ales X dintr-o structura de fișiere.
+Cerinte minimale:
+1. Folosiți următoarea structură de module:
+dir
+subdirA
+fodule1.py
+fisier1.txt
+subdirB
+fisier2.txt
+subdirC
+fisier3.txt
+module2.py
+Utilizati metoda rename() din modulul os pentru redenumire
+https://www.guru99.com/python-rename-file.html
+2. Folosiți o contructie regex pentru identificarea cuvântului X.
+3. Verificati doar fișierele cu extensia .txt .
