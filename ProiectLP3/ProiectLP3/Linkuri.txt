@@ -1,3 +1,3 @@
 https://www.guru99.com/python-rename-file.html
 https://realpython.com/working-with-files-in-python/
-https://github.com/Alex10171/Proiect_LP3
+https://github.com/tina5rox/proiectlp3
